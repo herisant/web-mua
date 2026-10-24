@@ -1,0 +1,6 @@
+{
+  "name": "AURA Artistry — MUA Portfolio & Online Booking",
+  "description": "Website resmi AURA Artistry Makeup Studio: eksplorasi portofolio rias pengantin, wisuda, dan prewedding, serta sistem pemesanan jadwal online terintegrasi WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
